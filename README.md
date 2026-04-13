@@ -61,9 +61,10 @@
 </p>
 <br> -->
 
-<p>
-  <img height="200" style="vertical-align: middle;"
+<p align="center">
+  <img height="160" style="vertical-align: middle;"
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nieah" />
-  <img height="200" style="vertical-align: middle;"
+  &nbsp;&nbsp;
+  <img height="160" style="vertical-align: middle;"
     src="https://raw.githubusercontent.com/nieah78/Programmers_Badge_Generator/main/result/result.svg" />
 </p>
