@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=93cc61&height=220&section=header&text=Nieah's%20Github!&fontSize=60&fontColor=423933)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=93cc61&height=250&section=header&text=Nieah's%20Github!&fontSize=60&fontColor=423933)
 <br>
 
 
@@ -54,3 +54,11 @@
   <img src="https://img.shields.io/badge/wondershare-000000?style=for-the-badge&logo=wondershare&logoColor=white">
   <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
 </div>
+<br>
+
+[![Nieah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nieah78)](https://github.com/nieah78/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nieah78)](https://github.com/nieah78/github-readme-stats)
+
+<br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nieah)](https://solved.ac/nieah)
+![Programmers Badge](https://raw.githubusercontent.com/nieah78/Programmers_Badge_Generator/main/result/result.svg)
