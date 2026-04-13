@@ -56,10 +56,14 @@
 </div>
 <br>
 
-[![Nieah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nieah78)](https://github.com/nieah78/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nieah78)](https://github.com/nieah78/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nieah78" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieah78" />
+</p>
 
 <br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nieah)](https://solved.ac/nieah)
-![Programmers Badge](https://raw.githubusercontent.com/nieah78/Programmers_Badge_Generator/main/result/result.svg)
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nieah" />
+  <img src="https://raw.githubusercontent.com/nieah78/Programmers_Badge_Generator/main/result/result.svg" />
+</p>
