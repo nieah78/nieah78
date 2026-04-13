@@ -1,7 +1,7 @@
-<div algin="center">
-    ## Hi there 👋
-</div>
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&&color=93cc61&height=300&section=header&text=Nieah's%20Github!&fontSize=70&fontColor=423933&desc=Welcome%20to%20my%20page😊)
+<br>
 <div align="center">
     <a href="https://www.linkedin.com/in/sujin-hong-8b6a573a4/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -10,27 +10,7 @@
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
     </a>
 </div>
-
-
-
-<!--
-**nieah78/nieah78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![header](https://capsule-render.vercel.app/api?type=waving&&color=93cc61&height=300&section=header&text=Nieah's%20Github!&fontSize=70&fontColor=423933&desc=Welcome%20to%20my%20page😊)
-
----
+<br>
 
 <div align="center">
 <h3 align="center">🪄 Tech Stacks 🪄</h3>
