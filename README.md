@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=93cc61&height=300&section=header&text=Nieah's%20Github!&fontSize=70&fontColor=423933&desc=Welcome%20to%20my%20page😊)
 
-===
+---
 
 <div>
 <h3>🪄 Tech Stacks 🪄</h3>
