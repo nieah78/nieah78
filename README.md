@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=93cc61&height=250&section=header&text=Nieah's%20Github!&fontSize=60&fontColor=423933)
 <br>
 
-
 ## 🔎 About Me
 <a href="https://www.linkedin.com/in/sujin-hong-8b6a573a4/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -56,14 +55,15 @@
 </div>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nieah78" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieah78" />
+<!-- <p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nieah78" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieah78" />
 </p>
-
-<br>
+<br> -->
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nieah" />
-  <img src="https://raw.githubusercontent.com/nieah78/Programmers_Badge_Generator/main/result/result.svg" />
+  <img height="150" style="vertical-align: middle;"
+    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nieah" />
+  <img height="150" style="vertical-align: middle;"
+    src="https://raw.githubusercontent.com/nieah78/Programmers_Badge_Generator/main/result/result.svg" />
 </p>
