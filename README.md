@@ -1,19 +1,18 @@
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&&color=93cc61&height=300&section=header&text=Nieah's%20Github!&fontSize=70&fontColor=423933&desc=Welcome%20to%20my%20page😊)
-<br>
-<div align="center">
-    <a href="https://www.linkedin.com/in/sujin-hong-8b6a573a4/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://velog.io/@nieah78/posts">
-        <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-    </a>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=93cc61&height=250&section=header&text=Nieah's%20Github!&fontSize=70&fontColor=423933&desc=Welcome%20to%20my%20page😊)
 <br>
 
-<div align="center">
-<h3 align="center">🪄 Tech Stacks 🪄</h3>
+
+## 🔎 About Me
+<a href="https://www.linkedin.com/in/sujin-hong-8b6a573a4/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://velog.io/@nieah78/posts">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+</a>
+<br>
+
+<div>
+<h2>🪄 Tech Stack</h2>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
@@ -32,8 +31,8 @@
   <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
 </div>
 
-<div align="center">
-<h3 align="center">📝 Studying 📝</h3>
+<div>
+<h2>📝 Studying</h2>
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/yolo-111F68?style=for-the-badge&logo=yolo&logoColor=white">
@@ -41,8 +40,8 @@
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </div>
 
-<div align="center">
-<h3 align="center">🛠️ Tools 🛠️</h3>
+<div>
+<h2>🛠️ Tools</h2>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br>
