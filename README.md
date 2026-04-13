@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div>
 <h3>🪄 Tech Stacks 🪄</h3>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white">
+  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=c++&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/dassaultsystemes-005386?style=for-the-badge&logo=solidworks&logoColor=white">
+  <img src="https://img.shields.io/badge/dassaultsystemes-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas
     &logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
