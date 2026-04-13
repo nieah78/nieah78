@@ -1,12 +1,14 @@
 ## Hi there 👋
+<div align="center">
+    <a href="https://www.linkedin.com/in/sujin-hong-8b6a573a4/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    
+    <a href="https://velog.io/@nieah78/posts" target="_blank">
+        <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+    </a>
+</div>
 
-<a href="https://www.linkedin.com/in/sujin-hong-8b6a573a4/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://velog.io/@nieah78/posts" target="_blank">
-    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a>
 
 
 <!--
@@ -28,8 +30,8 @@ Here are some ideas to get you started:
 
 ---
 
-<div>
-<h3>🪄 Tech Stacks 🪄</h3>
+<div align="center">
+<h3 align="center">🪄 Tech Stacks 🪄</h3>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
@@ -45,11 +47,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"><br>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/kicad-314CB0?style=for-the-badge&logo=kicad&logoColor=white">
-  <img src="https://img.shields.io/badge/dassaultsystemes-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
+  <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
 </div>
 
-<div>
-<h3>📝 Studying 📝</h3>
+<div align="center">
+<h3 align="center">📝 Studying 📝</h3>
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/yolo-111F68?style=for-the-badge&logo=yolo&logoColor=white">
@@ -57,8 +59,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </div>
 
-<div>
-<h3>🛠️ Tools 🛠️</h3>
+<div align="center">
+<h3 align="center">🛠️ Tools 🛠️</h3>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br>
