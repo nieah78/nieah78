@@ -53,15 +53,10 @@
   <img src="https://img.shields.io/badge/wondershare-000000?style=for-the-badge&logo=wondershare&logoColor=white">
   <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
 </div>
-<br>
+<br><br>
 
-<!-- <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nieah78" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieah78" />
-</p>
-<br> -->
 
-<p align="center">
+<p>
   <img height="160" style="vertical-align: middle;"
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nieah" />
   &nbsp;&nbsp;
